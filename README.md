@@ -13,6 +13,7 @@ menos han gustado a los clientes.
 
 ## Resultado del Análisis ✔
 ● Encontrar el número de artículos en el menú.
+
 ![2024-09-25](https://github.com/user-attachments/assets/07bb96d0-775b-4201-91c4-cbe7c392191e)
 
 
